@@ -16,4 +16,5 @@ return [
     'salutation' => 'Cordialement',
     'yes' => 'Oui',
     'no' => 'Non',
+    'first-paragraph'=> 'Premier paragraphe',
 ];

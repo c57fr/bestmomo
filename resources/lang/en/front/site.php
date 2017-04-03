@@ -16,5 +16,5 @@ return [
     'salutation' => 'Regards',
     'yes' => 'Yes',
     'no' => 'No',
-    'first-paragraph'=> 'First paragraph',
+    'depot-git'=> 'GitHub repository',
 ];

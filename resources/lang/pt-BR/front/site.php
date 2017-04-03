@@ -16,5 +16,5 @@ return [
     'salutation' => 'Saudações',
     'yes' => 'Sim',
     'no' => 'Não',
-    'first-paragraph'=> 'Text Uno',
+    'depot-git'=> 'Repositório GitHub',
 ];

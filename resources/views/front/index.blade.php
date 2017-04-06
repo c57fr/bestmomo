@@ -9,7 +9,9 @@
                 <hr>
                 <img class="img-responsive img-left" src="img/laravel-l-slant.png" alt="">
                 <p><strong><a href="https://github.com/c57fr/bestmomo"
-                              target="_blank">{{ trans('front/site.depot-git') }}</a></strong>
+                              target="_blank">
+                            <mark>{{ trans('front/site.depot-git') }}</mark>
+                        </a></strong>
                 </p>
             </div>
         </div>

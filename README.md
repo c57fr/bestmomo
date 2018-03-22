@@ -4,6 +4,8 @@
 
 It's an upgrade of [this repository](https://github.com/bestmomo/laravel5-example) for Laravel 5.3 with big code cleaning and refactoring and application tests.
 
+For a Laravel 5.5 new great example [it's there](https://github.com/bestmomo/laravel5-5-example).
+
 ### Installation (the slow way) ###
 
 * type `git clone https://github.com/bestmomo/laravel5-3-example.git projectname` to clone the repository 
@@ -82,3 +84,7 @@ Then migrate and seed :
 `php artisan migrate --seed`
 
 You can then use PHPUnit
+
+### License ###
+
+This example for Laravel is open-sourced software licensed under the MIT license

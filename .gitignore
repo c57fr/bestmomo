@@ -53,8 +53,4 @@ database/database.sqlite
 public/files/.quarantine/
 public/files/.tmb/*
 .env
-Supprimerait .idea/
-Supprimerait .idea/bestmomo_c57_fr.iml
-Supprimerait .idea/copyright/
-Supprimerait .idea/markdown-navigator/
-Supprimerait .idea/modules.xml
+
